@@ -1,13 +1,13 @@
-1. Make Exercise and make test passed screenshots:
+## 1. Make Exercise and make test passed screenshots:
 ![alt text](picture/5e0857de40801cde55f1232a5a268415.png)
 ![alt text](picture/9efab9e1ca428293b71f302e80ad6377.png)
 
 
-2. architecture diagram:
+## 2. architecture diagram:
 ![alt text](picture/19c569551177ee9b826a051b589ef772.png)
 
 
-3. Sepolia deployment Addresses and links:
+## 3. Deployment (Sepolia)
 MockUSDC: 0x2b88FBB0Aa9B6B11EA78f733caD041Eb164b7A12
 https://sepolia.etherscan.io/address/0x2b88FBB0Aa9B6B11EA78f733caD041Eb164b7A12#code
 

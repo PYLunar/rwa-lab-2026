@@ -92,7 +92,7 @@ contract BridgeHandler is Test {
     ///      Hint: the two parameters have no names yet. Name them first.
     function enqueue(uint256 userSeed, uint256 shares) external {
         address user = users[bound(userSeed,0,users.length-1)];
-        uint256 balance = usdc.balanceOf(user);
+        uint256 balance = tBill.balanceOf(user);
 
         if (balance == 0) return;
         shares = bound(shares,1,balance);
